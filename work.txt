@@ -1,2 +1,3 @@
-create home file
+hi ali2
+
 craete page setting
